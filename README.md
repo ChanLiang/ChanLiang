@@ -4,9 +4,9 @@ I'm Liang Chen.
 
 ## About Me
 - 👨🏼‍🎓 I’m a PhD Candidate at The Chinese University of Hong Kong.
-- 📃 I’m working on trustworthy LLM.
+- 📃 I’m working on trustworthy LLMs.
 - 🔭 I am motivated to develop novel algorithms based on machine learning for NLP, aiming to address real-world challenges.
-- 📫 Welcome to discuss and exchange ideas.
+- 📫 Feel free to reach out for discussions.
 
 <!--
 **ChanLiang/ChanLiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
