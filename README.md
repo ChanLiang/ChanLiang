@@ -5,7 +5,7 @@ I'm Liang Chen.
 ## About Me
 - 🎓 I’m a PhD Candidate at The Chinese University of Hong Kong.
 - 💼 I’m working on trustworthy LLMs.
-- 🚀 I am motivated to develop novel algorithms based on machine learning for NLP, aiming to address real-world challenges.
+- 🚀 I am motivated to develop novel algorithms based on machine learning and linguistics for NLP.
 - 🤝 Feel free to reach out for discussions.
 
 
