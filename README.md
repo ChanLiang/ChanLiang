@@ -6,10 +6,10 @@ I'm Liang Chen.
 - 🎓 I’m a PhD Candidate at The Chinese University of Hong Kong.
 - 🚀 I am motivated to develop novel machine learning-based algorithms for foundation models.
 - 💼 I'm working on trustworthy LLMs, aiming to build more robust, reliable, and policy-compliant superintelligence.
-- 🤝 Feel free to reach out for discussions.
+- 💬 Feel free to chat with me about anything.
 
 
-Got something to say? Share your thoughts anonymously here: [Anonymous Comments](https://forms.gle/PhmJpc2nPEizeoKL7)
+Got something on your mind? Share your thoughts anonymously here: [Anonymous Comments](https://forms.gle/PhmJpc2nPEizeoKL7)
 
 <!--
 **ChanLiang/ChanLiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
