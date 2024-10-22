@@ -9,7 +9,7 @@ I'm Liang Chen.
 - 💬 Feel free to chat with me about anything.
 
 
-Got something on your mind? Share your thoughts anonymously here: [Anonymous Comments](https://forms.gle/PhmJpc2nPEizeoKL7)
+Got something on your mind? Share your thoughts here: [Anonymous Comments](https://forms.gle/PhmJpc2nPEizeoKL7)
 
 <!--
 **ChanLiang/ChanLiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
