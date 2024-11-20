@@ -4,7 +4,7 @@ I'm Liang Chen.
 
 ## About Me
 - 🎓 I’m a PhD Candidate at The Chinese University of Hong Kong.
-- 💼 I'm working on trustworthy LLMs, aiming to build more robust, reliable, and policy-compliant superintelligence.
+- 💼 I'm working on trustworthy LLMs, aiming to build develop robust, reliable, and policy-compliant algorithms for LLMs.
 - 💬 Feel free to chat with me about anything.
 
 
