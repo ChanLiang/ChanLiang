@@ -1,31 +1,14 @@
-## Hi 👋 there
+## 👋 Hi, I'm Liang Chen (陈亮)
 
-I'm Liang Chen.
+I'm a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by Prof. Kam-Fai Wong.
 
-## About Me
+My research focuses on **trustworthy large language models (LLMs)**. Recent work includes:
 
-I'm a PhD Candidate at The Chinese University of Hong Kong, focusing on trustworthy LLMs. My research interests include:
+- **VAA** (ICML 2025): A safety alignment method that identifies and upweights vulnerable examples to improve safety retention.
+- **PEARL** (ICLR 2025): An instruction tuning method to enhance LLM robustness in ICL and RAG scenarios.
+- **WatME** (ACL 2024): A lossless text watermarking approach leveraging lexical redundancy during decoding.
+- **LLM evaluation** (EMNLP 2023): An automatic evaluation framework to assess LLMs as generative search engines.
 
-- Algorithm design for reliable training and inference
-- Evaluation methodologies for model trustworthiness
-- Safety and robustness guarantees in LLM applications
+🧠 I'm currently exploring **large reasoning models (LRMs)** and am open to research discussions or collaboration opportunities.
 
-Feel free to reach out for academic discussions or collaborations!
-
-
-
-
-<!--
-**ChanLiang/ChanLiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Feel free to reach out via: `lchen [at] se [dot] cuhk [dot] edu [dot] hk`
