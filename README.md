@@ -7,8 +7,10 @@ My research focuses on **trustworthy large language models (LLMs)**. Recent work
 - **VAA** (ICML 2025): A safety alignment method that identifies and upweights vulnerable examples to improve safety retention.
 - **PEARL** (ICLR 2025): An instruction tuning method to enhance LLM robustness in ICL and RAG scenarios.
 - **WatME** (ACL 2024): A lossless text watermarking approach leveraging lexical redundancy during decoding.
-- **LLM evaluation** (EMNLP 2023): An automatic evaluation framework to assess LLMs as generative search engines.
+- **CONNER** (EMNLP 2023): An automatic evaluation framework to assess LLMs as generative search engines.
 
 🧠 I'm currently exploring **large reasoning models (LRMs)** and am open to research discussions or collaboration opportunities.
 
 📬 Feel free to reach out via: `lchen [at] se [dot] cuhk [dot] edu [dot] hk`
+
+🌐 Homepage: [https://chanliang.github.io](https://chanliang.github.io)
